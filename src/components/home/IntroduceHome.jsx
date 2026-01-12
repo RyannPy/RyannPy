@@ -55,9 +55,7 @@ const IntroduceHome = () => {
 
         {/* Description */}
         <p className="text-gray-400 text-l max-w-2xl mb-12 leading-relaxed">
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-          when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+           — a passionate student who loves mathematics, coding, science, and music. A curious learner and dreamer, with a guitar in one hand and code in the other, always exploring new ideas and reaching for the stars.
         </p>
 
         {/* CTA Button */}
