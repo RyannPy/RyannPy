@@ -7,10 +7,10 @@ const MobileNavbar = ({ isActive, onToggle }) => (
     <div className="flex items-center gap-3">
       <img
         src={logo}
-        alt="RyanPy Logo"
+        alt="RyannPy Logo"
         className="w-8 h-8 object-contain"
       />
-      <span className="text-white text-2xl font-bold">RyanPy</span>
+      <span className="text-white text-2xl font-bold">RyannPy</span>
     </div>
 
     <HamburgerButton isActive={isActive} onClick={onToggle} />

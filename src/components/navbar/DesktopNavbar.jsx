@@ -16,8 +16,8 @@ const DesktopNavbar = ({ activeSection, onNavClick }) => {
   return (
     <nav className="hidden md:flex flex-col items-center justify-between bg-none w-48 h-screen fixed left-0 top-0 py-8">
       <div className="flex items-center gap-3">
-        <img src={logo} alt="RyanPy Logo" className="w-8 h-8 object-contain" />
-        <span className="text-white text-2xl font-bold">RyanPy</span>
+        <img src={logo} alt="RyannPy Logo" className="w-8 h-8 object-contain" />
+        <span className="text-white text-2xl font-bold">RyannPy</span>
       </div>
 
       <ul
