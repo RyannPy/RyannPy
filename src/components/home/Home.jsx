@@ -10,7 +10,7 @@ export default function Home() {
       <div className="grid grid-cols-1 md:grid-cols-2 min-h-screen items-center">
 
         {/* LANYARD — MOBILE TOP, DESKTOP RIGHT */}
-        <div className="relative order-1 md:order-2 flex justify-center items-center h-[55vh] md:h-full">
+        <div className="relative order-1 md:order-2 flex justify-center items-center h-[35vh] md:h-100">
           <Lanyard
             position={[0, 0, 22]}
             gravity={[0, -40, 0]}

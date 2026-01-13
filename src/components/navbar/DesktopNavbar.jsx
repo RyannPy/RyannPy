@@ -40,10 +40,23 @@ const DesktopNavbar = ({ activeSection, onNavClick }) => {
       </ul>
 
       <div className="flex gap-4 text-xl text-white">
-        <a href="#" className="flex items-center gap-3 group">
-          <DownloadSvg className="w-5 h-5 transition-transform duration-300 group-hover:scale-125" />
+        <a href="#" className="relative flex items-center gap-3 group">
+          {/* Tooltip */}
+          <span className="absolute -top-12 left-1/2 -translate-x-1/2 scale-0 group-hover:scale-100 transition-all duration-300 ease-out bg-linear-to-r from-purple-600 to-purple-500 text-white text-sm font-medium px-4 py-2 rounded-lg shadow-2xl shadow-purple-500/50 whitespace-nowrap pointer-events-none backdrop-blur-sm border border-purple-400/30">
+            Unduh CV
+            {/* Arrow */}
+            <span className="absolute left-1/2 -bottom-1.5 -translate-x-1/2 w-3 h-3 bg-purple-600 rotate-45 border-r border-b border-purple-400/30" />
+          </span>
+          {/* Icon */}
+          <DownloadSvg className="w-5 h-5 transition-transform duration-300 group-hover:scale-125 group-hover:rotate-12" />
         </a>
-        <a href="#" className="flex items-center gap-3 group">
+
+        <a href="#" className="relative flex items-center gap-3 group">
+          <span className="absolute -top-12 left-1/2 -translate-x-1/2 scale-0 group-hover:scale-100 transition-all duration-300 ease-out bg-linear-to-r from-green-600 to-green-500 text-white text-sm font-medium px-4 py-2 rounded-lg shadow-2xl shadow-green-500/50 whitespace-nowrap pointer-events-none backdrop-blur-sm border border-green-400/30">
+            Chat Me
+            <span className="absolute left-1/2 -bottom-1.5 -translate-x-1/2 w-3 h-3 bg-green-600 rotate-45 border-r border-b border-green-400/30"></span>
+          </span>
+
           <WhatsappSvg className="w-5 h-5 transition-transform duration-300 group-hover:scale-125" />
         </a>
       </div>

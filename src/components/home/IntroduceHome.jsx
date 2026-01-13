@@ -47,7 +47,7 @@ const IntroduceHome = () => {
         {/* Main heading with typing animation */}
         <h1 className="text-5xl md:text-5xl lg:text-6xl font-bold mb-6">
           <span className="text-white">Hi! I'm </span>
-          <span className="text-white inline-block min-w-100">
+          <span className="text-white inline-block min-w-100 transition duration-200 hover:drop-shadow-[0_0_8px_rgba(255,255,255,0.9)]">
             {text}
             <span className="animate-pulse text-purple-500">|</span>
           </span>

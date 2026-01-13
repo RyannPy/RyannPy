@@ -5,7 +5,13 @@ import MobileNavbar from '../components/navbar/MobileNavbar';
 import MobileSidebar from '../components/navbar/MobileSidebar';
 import GlobalStyles from '../components/GlobalStyles';
 
+// SECTION
 import Home from '../components/home/Home';
+import About from '../components/about/About';
+import Services from '../components/services/Services';
+import Skills from '../components/skills/Skills';
+import Project from '../components/project/Project';
+import Contact from '../components/contact/Contact';
 
 export default function Portfolio() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -100,6 +106,11 @@ export default function Portfolio() {
           }`}
         >
           <Home></Home>
+          <About></About>
+          <Services></Services>
+          <Skills></Skills>
+          <Project></Project>
+          <Contact></Contact>
         </main>
       </div>
     </>
