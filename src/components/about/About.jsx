@@ -1,3 +1,5 @@
+import AboutContent from "./AboutContent";
+
 export default function About() {
   return (
     <section id="about" className="min-h-screen flex items-center justify-center px-6 py-20">
@@ -6,9 +8,7 @@ export default function About() {
           About <span className="text-purple-500">Me</span>
         </h2>
         
-        <div className="h-64 flex items-center justify-center border-2 border-dashed border-purple-500/30 rounded-lg">
-          <p className="text-gray-500 text-lg">Content akan ditambahkan di sini</p>
-        </div>
+        <AboutContent></AboutContent>
       </div>
     </section>
   );

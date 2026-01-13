@@ -47,27 +47,6 @@ const ClickRippleEffect = () => {
             }}
           />
           
-          {/* Wave 2 - delayed */}
-          <div
-            className="absolute rounded-full border-2 border-purple-400 pointer-events-none"
-            style={{
-              width: '20px',
-              height: '20px',
-              transform: 'translate(-50%, -50%)',
-              animation: 'rippleWave 1s ease-out 0.15s forwards'
-            }}
-          />
-          
-          {/* Wave 3 - more delayed */}
-          <div
-            className="absolute rounded-full border border-purple-300 pointer-events-none"
-            style={{
-              width: '20px',
-              height: '20px',
-              transform: 'translate(-50%, -50%)',
-              animation: 'rippleWave 1s ease-out 0.3s forwards'
-            }}
-          />
         </div>
       ))}
 
