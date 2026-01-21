@@ -6,7 +6,7 @@ const IntroduceHome = () => {
   const [loopNum, setLoopNum] = useState(0);
   const [typingSpeed, setTypingSpeed] = useState(150);
 
-  const textToType = "RyannPy";
+  const textToType = "Ryann";
 
   useEffect(() => {
     const handleTyping = () => {
