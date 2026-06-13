@@ -158,5 +158,5 @@ https://github.com/RyannPy/TubeTunes
 ---
 
 <p align="center">
-  <i>"Keep moving forward. There are good things ahead worth working for."</i>
+  <i>"Keep moving forward. There are good things ahead worth working for." — 2026 </i>
 </p>
