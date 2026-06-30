@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ryan</h1>
 
 <h3 align="center">
-Informatics Student <br>
+Computer Science Student <br>
 Aspiring Data Scientist & AI Engineer
 </h3>
 
@@ -13,7 +13,7 @@ Building projects, learning continuously, and documenting my journey into Data S
 
 ## About Me
 
-I'm an Informatics student with a strong interest in Data Science, Machine Learning, and AI.
+I'm an Computer Science student with a strong interest in Data Science, Machine Learning, and AI.
 
 I enjoy turning raw data into meaningful insights, building predictive models, and creating software that solves real problems. My learning approach is project-based: every concept I learn becomes a practical project that helps strengthen both my understanding and portfolio.
 
@@ -64,7 +64,7 @@ Currently, I'm building a solid foundation in Data Science while also exploring 
 * [x] Classification Models
 * [x] Regression Models
 * [x] Hyperparameter Tuning
-* [ ] Clustering
+* [x] Clustering
 * [ ] Deep Learning
 * [ ] MLOps
 * [ ] LLM Applications
@@ -79,7 +79,7 @@ Currently, I'm building a solid foundation in Data Science while also exploring 
 Predicting player churn behavior using machine learning techniques, including data cleaning, exploratory analysis, feature engineering, model training, and evaluation.
 
 🔗 Repository:
-https://github.com/RyannPy/gacha-game-churn-analysis
+[RyannPy/gacha-game-churn-analysis](https://github.com/RyannPy/gacha-game-churn-analysis)
 
 ---
 
@@ -88,16 +88,16 @@ https://github.com/RyannPy/gacha-game-churn-analysis
 Machine learning project focused on predicting VIP player behavior and identifying high-value users based on gameplay patterns.
 
 🔗 Repository:
-https://github.com/RyannPy/the-vip-path
+[RyannPy/the-vip-path](https://github.com/RyannPy/the-vip-path)
 
 ---
 
-### Ames Housing Price Prediction
+### International Football Prediction
 
-End-to-end regression project using the Ames Housing dataset, featuring feature engineering, preprocessing pipelines, model comparison, and performance optimization.
+International football match prediction model to predict international tournaments.
 
 🔗 Repository:
-https://github.com/RyannPy/ames-housing-price-prediction
+[RyannPy/international-football-preditcion](https://github.com/RyannPy/international-football-prediction)
 
 ---
 
@@ -108,7 +108,7 @@ https://github.com/RyannPy/ames-housing-price-prediction
 A personal blogging platform built with Next.js and Supabase.
 
 🔗 Repository:
-https://github.com/RyannPy/nao-in
+[RyannPy/nao-in](https://github.com/RyannPy/nao-in)
 
 ---
 
@@ -117,7 +117,7 @@ https://github.com/RyannPy/nao-in
 An AI-powered desktop assistant capable of controlling applications through Telegram commands using Gemini-based natural language parsing.
 
 🔗 Repository:
-https://github.com/RyannPy/ai-desktop-assistant
+[RyannPy/ai-desktop-assistant](https://github.com/RyannPy/ai-desktop-assistant)
 
 ---
 
@@ -126,7 +126,7 @@ https://github.com/RyannPy/ai-desktop-assistant
 A Python CLI application for playing and managing YouTube audio directly from the terminal.
 
 🔗 Repository:
-https://github.com/RyannPy/TubeTunes
+[RyannPy/TubeTunes](https://github.com/RyannPy/TubeTunes)
 
 ---
 
@@ -154,6 +154,8 @@ https://github.com/RyannPy/TubeTunes
 
 * GitHub: [RyannPy](https://github.com/RyannPy)
 * LinkedIn: [Ryan Bayu Aji Bagus Purnomo](https://www.linkedin.com/in/ryan-bayu-aji-bagus-purnomo-60317640a/)
+* Instagram: [@ryannnby_](https://www.instagram.com/ryannnby_)
+* Email: ryanbayu155@gmail.com
 
 ---
 
